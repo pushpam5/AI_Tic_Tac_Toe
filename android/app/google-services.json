@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403123044518",
+    "project_id": "tic-tac-toe-222ae",
+    "storage_bucket": "tic-tac-toe-222ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403123044518:android:b26ecdb07168f4a5603467",
+        "android_client_info": {
+          "package_name": "com.example.tic_tac_toe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403123044518-0toqeidur95qk5r8pgmud6c2soocmg7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoMWQdlXcz2Ac9H7UQFQJKyuiNG8nsX0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403123044518-0toqeidur95qk5r8pgmud6c2soocmg7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
