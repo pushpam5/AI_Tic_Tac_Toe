@@ -1,6 +1,5 @@
 # tic_tac_toe
-
-A new Flutter project.
+A Legacy Game with Machine trying to defeat human in Tic-Tac-Toe.I have used Min-Max Algorithm for machines to take decision according to the game state to maximize winning.
 
 ## Getting Started
 
